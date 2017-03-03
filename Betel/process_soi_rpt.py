@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+'''
+Created on Jan 21, 2017
+
+@author: SHAP1816
+'''
 
 import os
 import logging  
